@@ -1,5 +1,5 @@
 👋 Hi, I'm Harsh!  
-I'm a Software Engineer with experience at Accenture, Alliance Inspection Management, and UConn, focusing on Full Stack development, distributed systems, and GenAI applications.  
+I'm a Software Engineer with experience in Full Stack development, distributed systems, and GenAI applications.  
 - ⚙️ Skilled in Java, Go, Python, React, and cloud platforms (AWS, Azure, GCP)  
 - 🧠 Open-source contributor  
 - 🚀 Passionate about building scalable systems and applying ML/AI to real-world problems  
