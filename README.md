@@ -15,4 +15,5 @@ const harsh = {
   interests: ["Distributed Systems", "Full-stack Development", "GenAI", "Open Source"]
 }
 ```
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=limbaniharsh)
 
